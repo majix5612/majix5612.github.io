@@ -1,0 +1,114 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://realpeanut.github.io/games/eggycar/index.html
+Subject: Eggy Car | the realest
+Date: Thu, 21 Nov 2024 10:46:29 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--fws3cWqxF76hyP6woSSCYe7REvMaaGtiGYuVuPgp2Y----"
+
+
+------MultipartBoundary--fws3cWqxF76hyP6woSSCYe7REvMaaGtiGYuVuPgp2Y----
+Content-Type: text/html
+Content-ID: <frame-6D26066922AAB9D1FD173F3C1A16E293@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://realpeanut.github.io/games/eggycar/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-4e43e8f5-a176-475f-a372-bb4163421529@mhtml.blink" />
+   =20
+	<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+	<title>Eggy Car | the realest</title>
+=09
+  <meta name=3D"robots" content=3D"noindex,nofollow">
+	<!-- Standardised web app manifest -->
+	<link rel=3D"manifest" href=3D"https://realpeanut.github.io/games/eggycar/=
+appmanifest.json">
+=09
+	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta =
+tags.) -->
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0, maximum-scale=3D1.0, minimum-scale=3D1.0, user-scalable=3Dno, minimal-u=
+i">
+	<meta name=3D"apple-mobile-web-app-capable" content=3D"yes">
+	<meta name=3D"apple-mobile-web-app-status-bar-style" content=3D"black">
+	<link rel=3D"apple-touch-icon" sizes=3D"256x256" href=3D"https://realpeanu=
+t.github.io/games/eggycar/icon-256.png">
+	<meta name=3D"HandheldFriendly" content=3D"true">
+=09
+	<!-- Chrome for Android web app tags -->
+	<meta name=3D"mobile-web-app-capable" content=3D"yes">
+	<link rel=3D"shortcut icon" sizes=3D"256x256" href=3D"https://realpeanut.g=
+ithub.io/games/eggycar/icon-256.png">
+
+    <!-- All margins and padding must be zero for the canvas to fill the sc=
+reen. -->
+=09
+=09
+
+</head>=20
+=20
+<body>=20
+	<div id=3D"fb-root"></div>
+=09
+=09
+=09
+	<!-- The canvas must be inside a div called c2canvasdiv -->
+	<div id=3D"c2canvasdiv" style=3D"width: 1536px; height: 864px; margin-left=
+: 0px; margin-top: 0px;">
+=09
+		<!-- The canvas the project will render to.  If you change its ID, don't =
+forget to change the
+		ID the runtime looks for in the jQuery events above (ready() and cr_sizeC=
+anvas()). -->
+		<canvas id=3D"c2canvas" width=3D"1920" height=3D"1080" style=3D"width: 15=
+36px; height: 864px;">
+			<!-- This text is displayed if the visitor's browser does not support HT=
+ML5.
+			You can change it, but it is a good idea to link to a description of a b=
+rowser
+			and provide some links to download some popular HTML5-compatible browser=
+s. -->
+			<h1>Your browser does not appear to support HTML5.  Try upgrading your b=
+rowser to the latest version.</h1>
+		</canvas>
+	=09
+	</div>
+=09
+	<!-- Pages load faster with scripts at the bottom -->
+=09
+	<!-- Construct 2 exported games require jQuery. -->
+=09
+
+
+=09
+    <!-- The runtime script.  You can rename it, but don't forget to rename=
+ the reference here as well.
+    This file will have been minified and obfuscated if you enabled "Minify=
+ script" during export. -->
+=09
+
+   =20
+=20
+ </body></html>
+------MultipartBoundary--fws3cWqxF76hyP6woSSCYe7REvMaaGtiGYuVuPgp2Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4e43e8f5-a176-475f-a372-bb4163421529@mhtml.blink
+
+@charset "utf-8";
+
+* { padding: 0px; margin: 0px; }
+
+html, body { background: rgb(0, 0, 0); color: rgb(255, 255, 255); overflow:=
+ hidden; touch-action: none; }
+
+canvas { touch-action: none; }
+
+@font-face { font-family: "Changa One"; src: url("changaone_regular.ttf"); =
+}
+
+@font-face { font-family: "Changa One"; src: url("changaone_regular.ttf"); =
+font-weight: bold; }
+------MultipartBoundary--fws3cWqxF76hyP6woSSCYe7REvMaaGtiGYuVuPgp2Y------
