@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Welcome to the Majix Webserver!</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+   <meta http-equiv='refresh' content='0; URL=https://sites.google.com/view/majixwebserver/home'>
+  </head>
+  <body>
+     <h1 style="color:Black; align:center;">Welcome to the Majix WebServer!</h1>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <a href="EaglercraftX_1.8_u43_Offline_Signed.html">Minecraft</a>
+  <a href="https://majix5612.github.io/majixembeded.github.io/polytracke.html">Poly Track</a>
+  <a href="cluno.html">Uno</a>
+  <a href="secureshell9002.html">SecureShell (Unblocker)</a>
+  <a href="clangrybirds.html">Angry Birds</a>
+  <a href="cl2048.html">2048</a>
+  <a href="https://github.com/Majix5612/majix5612.github.io">Our Github Page</a>
+   <a href="https://github.com/Majix5612/majix5612.github.io/discussions">Discusions/News</a>
+  <a href="index-aboutus.html">About Us</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScV-0UaYEkV5SBoOZmF3kZLveeQVVdWAZcevpwH1KHudqi7Qg/viewform?usp=sf_link">Majix Web Form</a>
+  
+</div>
+
+<div style="padding-left:16px">
+  <h2>Welcome! Hola!</h2>
+  <p>Welcome to the Majix WebServer GameCenter.</p>
+  <p>Have fun!</p>
+  <p> With navigation bar code from https://www.w3schools.com/</p>
+  <p> Thank you viewers!</p>
+  <p>  I do not condone any negative I.T uses on school grounds or durring class time or at home</p>
+  <h3>Message to FCPS/Viewers: Inquires, Questons, Request to remove site? Click the Form button!</h3>
+  <h4>Minecraft Multiplayer not working? Try running SecureShell first after following all prompts of SecureShell try Minecraft again (Keep SecureShell Open)</h4>
+  <h2>NOTICE: On 12/24/24 a mandtory update will take place for more info go to discusions and click important announcments</h2>
+  <h4>© Majix5612 2024</h4>
+  <p> Read License for more info (Located on github page)</p>
+  <h3> Polytrack is working again! :)</h3>
+</div>
+
+  
+<body style="background-color:#A9DEF9;">
+</body>
+
+<script type="text/javascript" src="https://www.free-counters.org/count/gh75"></script><br>
+</html>
