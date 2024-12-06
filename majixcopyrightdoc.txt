@@ -1,0 +1,41 @@
+Majix WebServer 2024-2025
+Copyright Sheet
+(c) Majix WebServer 2024-2025
+----------------------------------
+INDEX
+1. Poly track copyright
+2. Slope Copyright
+3. All other game copyrights
+4. Majix WebServer Copyrights
+
+
+
+
+[1] Poly Track Copyright
+Poly track 0.22 (Majix WebServer Version) is owned by:
+Kodub and can be played at kodub.com. Poly track is interlectual Property of "Kodub"
+------END OF PAGE 1------
+[2] Slope Copyright
+Slope (Majix WebServer Version) is owned by "Y8 Games" and can by played on y8.com it is interlectual property of
+"Y8 Games"
+------END OF PAGE 2------
+[3] All other games copyright
+The owners of all other games hosted is not known however they were not created by "Majix WebServer"
+------END OF PAGE 3------
+[4] Majix WebServer Copyrights
+Note: All items listed as a part of "Majix WebServer" is copyrighted and is interlectual property of "Majix WebServer" all items EXCEPT video our hosted on github you may use them but you need to
+give credit.
+* Majix WebServer Proxy How to: (c) Majix WebServer 2024-2025 | Is only to be used on Majix WebServer
+* Majix WebServer Server Backend: (c) Majix OpenProject 2024-2025 | Is open to public
+* Majix WebServer Site: (c) Majix WebServer 2024-2025 | Is to only be used on Majix WebServer
+
+--DEFINITIONS--
+"Majix WebServer OpenProject" Is the opensource project of Majix WebServer it applies to "Majix Embeded"
+"Majix WebServer" Is the closed source project of Majix WebServer it applies to "Majix WebServer"
+
+--END OF PAGE (1-4)--
+
+Thank you for your time on this document
+
+
+(c) Majix WebServer 2024-2025 | Majix OpenProject 2024-2025
