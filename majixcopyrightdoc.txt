@@ -32,7 +32,7 @@ give credit.
 --DEFINITIONS--
 "Majix WebServer OpenProject" Is the opensource project of Majix WebServer it applies to "Majix Embeded"
 "Majix WebServer" Is the open source project of Majix WebServer it applies to "Majix WebServer"
-
+--END OF DEFINITIONS--
 --END OF PAGE (1-4)--
 
 Thank you for your time on this document
