@@ -23,7 +23,7 @@ Slope (Majix WebServer Version) is owned by "Y8 Games" and can by played on y8.c
 The owners of all other games hosted is not known however they were not created by "Majix WebServer"
 ------END OF PAGE 3------
 [4] Majix WebServer Copyrights
-Note: All items listed as a part of "Majix WebServer" is copyrighted and is interlectual property of "Majix WebServer" all items EXCEPT video our hosted on github you may use them but you need to
+Note: All items listed as a part of "Majix WebServer" is copyrighted and is interlectual property of "Majix WebServer". All items EXCEPT video our hosted on github you may use them but you need to
 give credit.
 * Majix WebServer Proxy How to: (c) Majix WebServer 2024-2025 | Is only to be used on Majix WebServer
 * Majix WebServer Server Backend: (c) Majix OpenProject 2024-2025 | Is open to public
