@@ -31,12 +31,12 @@ give credit.
 
 --DEFINITIONS--
 "Majix WebServer OpenProject" Is the opensource project of Majix WebServer it applies to "Majix Embeded"
-"Majix WebServer" Is the closed source project of Majix WebServer it applies to "Majix WebServer"
+"Majix WebServer" Is the open source project of Majix WebServer it applies to "Majix WebServer"
 
 --END OF PAGE (1-4)--
 
 Thank you for your time on this document
-Last Updated: 12/09/2024
+Last Updated: 12/10/2024
 
 --END OF DOCUMENT--
 (c) Majix WebServer 2024-2025 | Majix OpenProject 2024-2025
