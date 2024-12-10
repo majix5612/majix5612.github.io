@@ -6,11 +6,7 @@ When grabing the save code you have to grab the text between these lines:
 --START COPY--
 --END COPY--
 You must copy all the text between those lines (Not the lines themself) And Make sure not to copy spaces
-To select your track simply copy the code for that track | To import the track in polytrack click play then import and paste the code
-
-*= Recommended
-
-Poly track custom tracks
+To select your track simply copy the code for that track<br><br>To import the track in polytrack click play then import and paste the code<br><br>*= Recommended<br><br>Poly track custom tracks
 
  
 <h1>Sludge-Works v.: 0.1. By EjdEmXD:</h1>
