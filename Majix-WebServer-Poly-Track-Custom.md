@@ -1,5 +1,5 @@
 <h1>Majix WebServer | Poly Track Custom Tracks</h1>
-<h2> (c) Majix WebServer 2024-2025 | Tracks belong to there owner listed in the document
+<h2>© Majix WebServer 2024-2025 | Tracks belong to there owner listed in the document
 
 <h3>[I] Instructions</h3>
 When grabing the save code you have to grab the text between these lines:
