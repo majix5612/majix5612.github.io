@@ -6,7 +6,7 @@ When grabing the save code you have to grab the text between these lines:
 --START COPY--
 --END COPY--
 You must copy all the text between those lines (Not the lines themself)
-To select your track simply copy the code for that track<br><br>To import the track in polytrack click play then import and paste the code<br><br>Recommended Track of the year: https://github.com/majix5612/majix5612.github.io/edit/main/Majix-WebServer-Poly-Track-Custom.md#quartz-city-by-tini<br><br>Poly track custom tracks
+To select your track simply copy the code for that track<br><br>To import the track in polytrack click play then import and paste the code<br><br>Recommended Track of the year: https://github.com/majix5612/majix5612.github.io/blob/main/Majix-WebServer-Poly-Track-Custom.md#quartz-city-by-tini<br><br>Poly track custom tracks
 
  
 <h1>Sludge-Works v.: 0.1. By EjdEmXD:</h1>
