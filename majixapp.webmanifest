@@ -3,7 +3,7 @@
   "short_name": "Majix WebServer",
   "description": "The app version of Majix WebServer now easier to use then ever!",
   "icons": [
-    {256
+    {
       "src": "https://majix5612.github.io/favicon.ico",
       "sizes": "256x256",
       "type": "image/png"
