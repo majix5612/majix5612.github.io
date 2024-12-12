@@ -4,13 +4,13 @@
   "description": "The app version of Majix WebServer now easier to use then ever!",
   "icons": [
     {
-      "src": "/favicon.ico",
-      "sizes": "360x360",
-      "type": "image/png"
+      "src": "favicon.ico",
+      "sizes": "356x256",
+      "type": "image/x-icon"
     },
  
-]
-  "start_url": "/index.html",
+],
+  "start_url": "index.html",
   "display": "fullscreen",
   "theme_color": "#A9DEF9",
   "background_color": "#A9DEF9"
