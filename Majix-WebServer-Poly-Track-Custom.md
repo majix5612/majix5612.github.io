@@ -13,7 +13,7 @@ To select your track simply copy the code for that track<br><br>To import the tr
 <h3>[S] Submit Your Own Track</h3>
 
 Welcome! Do you want to submit your own track for Poly Track? Submit your track on the form along with your name and you may be able to join the list<br>
-You will just need to copy and paste your track code you can get this code by clicking export in the track builder on poly track
+You will just need to copy and paste your track code you can get this code by clicking export in the track builder on poly track.<br><br>To submit a track on the form click "Request to add Something" click other and type "Poly Track Track Q1" | in the box "What is it called" Type the name of the Track and your name or the authors name. In the "link" section paste your polytrack track code.
 
 
 <h1>Sludge-Works v.: 0.1. By EjdEmXD:</h1>
