@@ -2,9 +2,9 @@
 <h2>© Majix WebServer 2024-2025 | Tracks belong to there owner listed in the document
 
 <h3>[I] Instructions</h3>
-When grabing the save code you have to grab the text between these lines:
---START COPY--
---END COPY--
+When grabing the save code you have to grab the text between these lines:<br>
+--START COPY--<br>
+--END COPY--<br><br>
 You must copy all the text between those lines (Not the lines themself)
 To select your track simply copy the code for that track<br><br>To import the track in polytrack click play then import and paste the code<br><br>Recommended Track of the Year for 2024-2025: https://github.com/majix5612/majix5612.github.io/blob/main/Majix-WebServer-Poly-Track-Custom.md#quartz-city-by-tini<br><br>Poly track custom tracks
 
