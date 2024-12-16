@@ -9,6 +9,13 @@ You must copy all the text between those lines (Not the lines themself)
 To select your track simply copy the code for that track<br><br>To import the track in polytrack click play then import and paste the code<br><br>Recommended Track of the Year for 2024-2025: https://github.com/majix5612/majix5612.github.io/blob/main/Majix-WebServer-Poly-Track-Custom.md#quartz-city-by-tini<br><br>Poly track custom tracks
 
  
+
+<h3>[S] Submit Your Own Track</h3>
+
+Welcome! Do you want to submit your own track for Poly Track? Submit your track on the form along with your name and you may be able to join the list<br>
+You will just need to copy and paste your track code you can get this code by clicking export in the track builder on poly track
+
+
 <h1>Sludge-Works v.: 0.1. By EjdEmXD:</h1>
 <h2>--START COPY--</h2>
 
